@@ -1,0 +1,12 @@
+{"User":"Trucker", "Password":"whatislife"}
+
+{"User":"Terminal Operator", "Password":"whatislife"}
+
+{"User":"Port", "Password":"whatislife"}
+
+{"User":"Dispatcher", "Password":"whatislife"}
+
+{"User":"Cargo Owner", "Password":"whatislife"}
+
+{"User":"Rail", "Password":"whatislife"}
+
